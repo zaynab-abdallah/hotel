@@ -226,7 +226,12 @@ border-radius: 50%;
 }
 
 
-
+#main-footer{
+    text-align: center;
+    background-color: #444;
+    color: #fff;
+    padding: 20px;
+}
 
 
 
